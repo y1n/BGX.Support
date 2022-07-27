@@ -30,4 +30,3 @@ There's two ways of getting SDK Access, one is if you're developer, the second o
 > - You can't buy SDK access, if someone tries to sell you SDK access, they're trying to scam you.
 > - You shouldn't spam developers in their PMs about it. If they want to have you as their tester, you'll know, but anything such as begging/spamming is strictly forbidden.
 > - Using SDK Access to have some sort of access to "private plugins" is strictly forbidden.
- 
