@@ -1,0 +1,1 @@
+BGX usually works out of the box. In case you are facing **issues** with BGX, please make sure that it's are installed **properly**. In case you need **further** help and more **personal assistance**, feel free to open a Ticket on our Discord. Make sure to provide a **sufficient amount of information** so our supports can help you faster.
