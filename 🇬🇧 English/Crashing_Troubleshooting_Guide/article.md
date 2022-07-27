@@ -20,5 +20,5 @@
 
 > - Open Menu (Default button is "SHIFT"), then go to Core -> Core plugins -> Prediction and then select "Core". If that doesn't work, proceed to step two.
 > - Restore config from Loader "Settings" tab (this also applies to plugins that were working before they received an update):
- ![enter image description here](https://i.imgur.com/K0MYUAi.png)
+ ![Restore Config](https://i.imgur.com/2soLy75.png)
 
