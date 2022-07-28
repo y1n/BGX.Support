@@ -1,3 +1,1 @@
-One of BGX highest priority is the **security** of our customers and we always strive to **improve our quality**. While we are usually able to be a step ahead of Riot and bypass any automatic anti-cheat systems, there are other ways to be banned - For example through a massive amount of reports from other players. 
-
-Sadly, it is **not possible to guarantee** that there will be no bans using our software, this is why we recommend you to not use BGX on an account you are not ready to lose. If multiple bans occur in a short amount of time, we provide the possibility to report your ban so we can extend our investigation using the data you share with us.
+Reset config from Loader **settings tab**, go to practise tool and configure corе plugins like evade, orbwalker, eutility, etc and then go to %appdata%, random 32 char folder, and make settings_modern.dat to Read Only through file properties. This way most important settings won't reset.
