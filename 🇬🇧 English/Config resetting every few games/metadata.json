@@ -1,5 +1,5 @@
 {
-	"article_title" : "My config resets",
-	"article_short_description" : "General information about Config Files.",
-	"article_author" : "Excurse"
+	"title" : "My config resets",
+	"short_description" : "General information about Config Files.",
+	"author" : "Excurse"
 }
