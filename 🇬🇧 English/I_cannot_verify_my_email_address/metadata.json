@@ -1,5 +1,6 @@
 {
 	"title" : "I cannot verify my email address",
 	"short_description" : "What to do in case you can't validate your email address?",
-	"author" : "Excurse"
+	"author" : "Excurse",
+	"tags": []
 }

@@ -1,5 +1,6 @@
 {
 	"title" : "Payment Methods",
 	"short_description" : "Information on different payment methods in different countries.",
-	"author" : "Excurse"
+	"author" : "Excurse",
+	"tags": []
 }

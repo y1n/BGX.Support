@@ -1,5 +1,6 @@
 {
 	"title" : "Example Article",
 	"short_description" : "We are using Markdown",
-	"author" : "Yin"
+	"author" : "Yin",
+	"tags": []
 }

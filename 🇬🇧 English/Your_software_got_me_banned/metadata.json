@@ -1,5 +1,6 @@
 {
 	"title" : "Your software got me banned",
 	"short_description" : "General information regarding the suspension of a League of Legends account.",
-	"author" : "Excurse"
+	"author" : "Excurse",
+	"tags": []
 }

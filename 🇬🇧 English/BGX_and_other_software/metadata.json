@@ -1,5 +1,6 @@
 {
 	"title" : "BGX and other software",
 	"short_description" : "Issues with other software interfering with BGX.",
-	"author" : "Excurse"
+	"author" : "Excurse",
+	"tags": []
 }

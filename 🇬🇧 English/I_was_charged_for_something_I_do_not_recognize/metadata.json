@@ -1,5 +1,6 @@
 {
 	"title" : "I was charged for something I do not recognize",
 	"short_description" : "What to do in case you do not recognize a payment made through your account.",
-	"author" : "Excurse"
+	"author" : "Excurse",
+	"tags": []
 }
